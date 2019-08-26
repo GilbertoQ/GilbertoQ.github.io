@@ -1,0 +1,6 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: The University of Texas Rio Grande Valley Research Assistant
+  link: https://www.utrgv.edu/en-us/
+  date: June 2017 - August 2018 <i class="fa fa-clock-o" aria-hidden="true" title="Now"></i>
+  job: Research Assistant

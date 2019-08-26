@@ -1,0 +1,28 @@
+- name: Self-Project
+  descr: "Created a Convolutional Neural Network that attempts to predict company stock price
+increase/decrease."
+  image: pong.png
+  github: ""
+
+- name: AtomNet
+  descr: "Assisted a team attempting to recreate AtomNet, a neural network that can predict the
+binding of proteins and ligands. "
+  image: pong.png
+  github: ""
+
+- name:  Predicting Go
+  descr: "Recreated a small part of AlphaGo to predict the outcome of a match of a board
+state of Go."
+  image: pong.png
+  github: ""
+
+- name:  Senior Project
+  descr: "Created a reinforcement learning AI capable of simple squad based combat play
+in StarCraft:Brood War."
+  image: pong.png
+  github: ""
+
+- name:  2D Video Game
+  descr: " Created a 2-D platformer game using Python with Pygame"
+  image: pong.png
+  github: ""

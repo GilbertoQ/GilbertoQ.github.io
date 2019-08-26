@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: C++, Python, JavaScript, Tensorflow, Java, C
+percentage: 75, 75, 55, 50, 60, 60
