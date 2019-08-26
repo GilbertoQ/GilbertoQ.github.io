@@ -5,7 +5,7 @@
 #
 title: Gilberto Quintos
 email:
-description: Proffesional work in Machine Learning along with years of school/personal coding experience.
+description: Professional work in Machine Learning along with years of school/personal coding experience.
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -36,7 +36,7 @@ owner:
   name: Gilberto Quintos
   avatar: 
   job: "Machine Learning Graduate Student"
-  bio: " Proffesional work in Machine Learning along with years of school/personal coding experience."
+  bio: " Professional work in Machine Learning along with years of school/personal coding experience."
   email:
   disqus-shortname:
   twitter: #username
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: GilbertoQ
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
