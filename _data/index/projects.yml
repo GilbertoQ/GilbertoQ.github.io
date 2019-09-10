@@ -1,3 +1,9 @@
+- name: Network-Anomoly-Detection
+  descr: "This project takes real network traffic data which is annotated between malicious 
+  and not malicious and feeds that data into a bidirectional RNN to achieve an AUC of 0.83"
+  image: pong.png
+  github: "https://github.com/GilbertoQ/Network-Anomoly-Detection"
+  
 - name: Self-Project
   descr: "Created a Convolutional Neural Network that attempts to predict company stock price
 increase/decrease."
