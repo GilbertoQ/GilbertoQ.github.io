@@ -1,3 +1,12 @@
+- name: Random Forest on Financial Data
+  descr: "The goal was to create a model to 
+  get events which then a Random Forest Classifier 
+  can then be fit on certain statistical properties 
+  to see an improved accuracy."
+  image: pong.png
+  github: "https://github.com/GilbertoQ/ML_FinanceRF"
+  
+
 - name: Network-Anomoly-Detection
   descr: "This project takes real network traffic data which is annotated between malicious 
   and not malicious and feeds that data into a bidirectional RNN to achieve an AUC of 0.83"
